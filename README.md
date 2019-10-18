@@ -31,6 +31,6 @@ Using Excel, modify and analyze the data of four thousand past Kickstarter proje
 - Perhaps, average donation by category to help people decide what they should set their goals at.
 - Drilling deeper into certain data points it would be interesting to see, within countries, the outcome trends by state, region or etc. This would allow us to observe which geographical areas have the highest rates of success and which ones have the lowest rate of success and possibly gather trends.
 - It would also be interesting to discover what happened to those companies/campaigns after KickStarter. Success in one arena does not mean overall continued or lasting success.
+![alt tag](https://github.com/PetraLee2019/Kickstarter-Champaign-Analysis/blob/master/Images/GoalOutcomes.PNG?raw=true)
 ### Conclusions
 Within the data provided there are numerous conclusions that could be made about KickStarter campaigns. At first glance, KickSarter projects are 53% more likely to be successful than to fail at 37% (or get cancelled at 8%, and the remaining live).
-![alt tag](https://github.com/PetraLee2019/Kickstarter-Champaign-Analysis/blob/master/Images/GoalOutcomes.PNG?raw=true)
